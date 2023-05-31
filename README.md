@@ -1,4 +1,4 @@
-# STACK-TRUCK-QUESTION
+# STACK-TRUCK-QUESTION :battery:
 ## PROBLEMA A SER RESOLVIDO
 Uma empresa de logística precisa organizar sua frota de caminhões de forma eficiente
 para realizar entregas em diferentes locais. Implemente um programa em Java que
