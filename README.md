@@ -1,5 +1,5 @@
-# STACK-TRUCK-QUESTION -:shipit:
-## PROBLEMA A SER RESOLVIDO
+# STACK-TRUCK-QUESTION 
+## PROBLEMA A SER RESOLVIDO :grey_question:
 Uma empresa de logística precisa organizar sua frota de caminhões de forma eficiente
 para realizar entregas em diferentes locais. Implemente um programa em Java que
 utilize pilhas para ajudar na organização e na priorização das entregas.
